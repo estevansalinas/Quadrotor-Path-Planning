@@ -34,3 +34,19 @@ World (JSON) → Occupancy Grid → Path Search (Dijkstra / A*) → Waypoint Pru
 - Python, NumPy, SciPy, Matplotlib
 - Custom quadrotor flight simulator (`flightsim`)
 - PD controller for trajectory tracking
+
+## Results
+
+### Map 0
+![Map 0](3D_Pathmap0.png)
+
+### Map 1
+![Map 1](3D_Pathmap1.png)
+
+### Map 2
+![Map 2](3D_Pathmap2.png)
+
+### Simulation Videos
+- [Map 0](https://youtu.be/bA0n8olab5Q)
+- [Map 1](https://youtu.be/o2oro9KhoiY)
+- [Map 2](https://youtu.be/hPSr7qLwu8g)
