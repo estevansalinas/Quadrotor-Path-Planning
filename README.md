@@ -8,6 +8,9 @@ The planner discretizes a 3D world into a voxel grid, inflates obstacles by a co
 
 ## Pipeline
 
+```
+World (JSON) → Occupancy Grid → Path Search (Dijkstra / A*) → Waypoint Pruning → Cubic Polynomial Trajectory → PD Controller → Simulation
+```
 ## Algorithms
 
 | Algorithm | Description |
